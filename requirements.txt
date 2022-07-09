@@ -1,1 +1,2 @@
-python_bd~=1.4.39
+
+SQLAlchemy~=1.4.39
